@@ -38,11 +38,7 @@ border: 80px solid white;
     font-size: 2rem;
     font-family: 'Sixtyfour', sans-serif;
 }
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
+
 
 footer {
     margin-top: auto;
